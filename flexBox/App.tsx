@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.view1_parent}>
         <View style={styles.view1}>
-          <Text>11</Text>
+          <Text>1</Text>
         </View>
         <View style={styles.view2}>
           <Text>2</Text>
